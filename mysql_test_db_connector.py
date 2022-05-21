@@ -1,0 +1,3 @@
+"""
+Some MySQL connector tests
+"""
